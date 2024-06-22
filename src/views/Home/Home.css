@@ -1,0 +1,38 @@
+.cards-main-container
+{
+    display: flex;
+    
+}
+@media screen and (max-width:768px)
+  {
+    .cards-main-container
+  {
+        height: 100%;
+        width: 100%;
+        display: block;
+  }
+}
+.sample-product
+{
+    text-align: center;
+    font-size: 30px;
+}
+.index-main-img
+{
+    height: 60%;
+    width: 100%;
+    padding-top: 20px;
+}
+
+
+
+.config-head
+{
+    text-align: center;
+    font-size: 30px;
+}
+.features
+{
+    display: flex;
+    justify-content: center;
+}
